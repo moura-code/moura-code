@@ -5,7 +5,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 -->
 
 
-
+<figure><embed src="https://wakatime.com/share/@moura/50c7bdb0-d082-4c89-b3ce-036a2506099f.svg"></embed></figure>
 ![](https://komarev.com/ghpvc/?username=moura-code)
 
 I am 17 years old Brazilian :brazil: student that programing in the free time 
