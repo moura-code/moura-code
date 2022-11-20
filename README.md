@@ -19,22 +19,23 @@ Portuguese/Spanish/English
 ### (Not every skills are here, check my linkdin for more infomation!!)
 
 ## Lenguages
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,express,ts&theme=dark&perline=9)
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=3)
 
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=3)(https://skillicons.dev)
 
 ## Data bases
-[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js&perline=3)(https://skillicons.dev)
 
 ## Anothers importants things
-[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js&perline=3)(https://skillicons.dev)
 
 
-
+# My Skills
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,express,java,bootstrap,bots,angular,bootstrap,django,firebase,flask,heroku,mongodb,mysql,react,selenium,ts&theme=dark&perline=9)
 <img src="https://user-images.githubusercontent.com/94744748/174678573-5e5f084c-d17a-4002-8f09-6c9885fb0823.svg" width="48px" alt="Postman Icon"/>
  # My GitHub Stats
 ![image](https://raw.githubusercontent.com/moura-code/moura-code/master/generated/overview.svg#gh-dark-mode-only)
