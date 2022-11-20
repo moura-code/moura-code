@@ -16,10 +16,10 @@ Portuguese/Spanish/English
 
 
 # My Skills
-![My Skills] ###(Not every skills are here, check my linkdin for more infomation!!)
+### (Not every skills are here, check my linkdin for more infomation!!)
 
 ## Lenguages
-[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
