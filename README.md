@@ -22,16 +22,16 @@ Portuguese/Spanish/English
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 
 ## Data bases
-[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 
 ## Anothers importants things
-[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 
 
 <img src="https://user-images.githubusercontent.com/94744748/174678573-5e5f084c-d17a-4002-8f09-6c9885fb0823.svg" width="48px" alt="Postman Icon"/>
