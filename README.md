@@ -25,13 +25,13 @@ Portuguese/Spanish/English
 ![My Skills](https://skillicons.dev/icons?i=js&perline=3)
 
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=js&perline=3)(https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,express,ts&theme=dark&perline=9)
 
 ## Data bases
-![My Skills](https://skillicons.dev/icons?i=js&perline=3)(https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,express,ts&theme=dark&perline=9)
 
 ## Anothers importants things
-![My Skills](https://skillicons.dev/icons?i=js&perline=3)(https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,express,ts&theme=dark&perline=9)
 
 
 # My Skills
