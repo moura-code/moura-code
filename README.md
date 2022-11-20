@@ -18,14 +18,20 @@ Portuguese/Spanish/English
 # My Skills
 ![My Skills] ###(Not every skills are here, check my linkdin for more infomation!!)
 
-##Lenguages
-![Lenguages](https://skillicons.dev/icons?i=js,html,css, ts&theme=dark&perline=9)
+## Lenguages
+[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
 
-###[Frontend Web](https://skillicons.dev/icons?i= ts&theme=dark&perline=9)
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
 
-###[Backend](https://skillicons.dev/icons?i=js,html,css, ts&theme=dark&perline=9)
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
 
-###[Data Bases](https://skillicons.dev/icons?i=js,html,css, ts&theme=dark&perline=9)
+## Data bases
+[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
+
+## Anothers importants things
+[![My Skills](https://skillicons.dev/icons?i=js &perline=3)](https://skillicons.dev)
 
 
 <img src="https://user-images.githubusercontent.com/94744748/174678573-5e5f084c-d17a-4002-8f09-6c9885fb0823.svg" width="48px" alt="Postman Icon"/>
