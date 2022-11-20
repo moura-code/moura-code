@@ -16,8 +16,17 @@ Portuguese/Spanish/English
 
 
 # My Skills
-![My Skills]
-(https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,express,java,bootstrap,bots,angular,bootstrap,django,firebase,flask,heroku,mongodb,mysql,kubernetes,docker,cs,dotnet,fastapi,jest,mongodb,react,selenium,ts&theme=dark&perline=9)
+![My Skills] ###(Not every skills are here, check my linkdin for more infomation!!)
+
+###[Lenguages](https://skillicons.dev/icons?i=js,html,css, ts&theme=dark&perline=9)
+
+###[Frontend Web](https://skillicons.dev/icons?i= ts&theme=dark&perline=9)
+
+###[Backend](https://skillicons.dev/icons?i=js,html,css, ts&theme=dark&perline=9)
+
+###[Data Bases](https://skillicons.dev/icons?i=js,html,css, ts&theme=dark&perline=9)
+
+
 <img src="https://user-images.githubusercontent.com/94744748/174678573-5e5f084c-d17a-4002-8f09-6c9885fb0823.svg" width="48px" alt="Postman Icon"/>
  # My GitHub Stats
 ![image](https://raw.githubusercontent.com/moura-code/moura-code/master/generated/overview.svg#gh-dark-mode-only)
