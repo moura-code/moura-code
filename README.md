@@ -18,7 +18,8 @@ Portuguese/Spanish/English
 # My Skills
 ![My Skills] ###(Not every skills are here, check my linkdin for more infomation!!)
 
-###[Lenguages](https://skillicons.dev/icons?i=js,html,css, ts&theme=dark&perline=9)
+##Lenguages
+![Lenguages](https://skillicons.dev/icons?i=js,html,css, ts&theme=dark&perline=9)
 
 ###[Frontend Web](https://skillicons.dev/icons?i= ts&theme=dark&perline=9)
 
