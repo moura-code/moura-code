@@ -22,7 +22,7 @@ Portuguese/Spanish/English
 ![My Skills](https://skillicons.dev/icons?i=js,ts,cs,java,py,r&theme=dark&perline=9)
 
 ## Frontend
-![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,html,css,materialui,react,redux,sass,styledcomponents&perline=3)
+![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,html,css,materialui,react,redux,sass,styledcomponents&perline=9)
 
 ## Backend
 ![My Skills](https://skillicons.dev/icons?i=nodejs,django,express,dotnet,fastapi,nestjs,spring&theme=dark&perline=9)
@@ -32,7 +32,7 @@ Portuguese/Spanish/English
 
 
 ## Anothers importants things
-![My Skills](https://skillicons.dev/icons?i=bots,selenium,git,docker,kubernetes,figma,linux,maven,jest,powershell,regex&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=bots,selenium,git,docker,kubernetes,figma,linux,maven,jest,powershell,regex&theme=dark&perline=13)
 <img src="https://user-images.githubusercontent.com/94744748/174678573-5e5f084c-d17a-4002-8f09-6c9885fb0823.svg" width="48px" alt="Postman Icon"/>
  # My GitHub Stats
 ![image](https://raw.githubusercontent.com/moura-code/moura-code/master/generated/overview.svg#gh-dark-mode-only)
@@ -44,4 +44,4 @@ Portuguese/Spanish/English
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moura&theme=dark)
 ## Contact Me
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/joaocaladomoura/) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/joao_c_moura/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jcaladomoura@gmail.com)| [<img src="https://www.speaktech.in/themes/images/whatsapp-icon.png" alt="Whatsapp logo" height="32">](https://web.whatsapp.com/send?phone=59891357270)|
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/joaocaladomoura/) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/joao_c_moura/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jcaladomoura@gmail.com)| [<img src="https://www.speaktech.in/themes/images/whatsapp-icon.png" alt="Whatsapp logo" height="32">](https://web.whatsapp.com/send?phone=59891357270)|
