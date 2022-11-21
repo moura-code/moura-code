@@ -16,7 +16,7 @@ Portuguese/Spanish/English
 
 
 # My Skills
-### (Not every skills are here, check my linkdin for more infomation!!)
+### (Not all my skills are here, check my linkdin for more infomation!!)
 
 ## Lenguages
 ![My Skills](https://skillicons.dev/icons?i=js,ts,cs,java,py,r&theme=dark&perline=9)
