@@ -30,13 +30,9 @@ Portuguese/Spanish/English
 ## Data bases
 ![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,prisma,sqlite&theme=dark&perline=9)
 
-## Tests 
-![My Skills](https://skillicons.dev/icons?i=jest&theme=dark&perline=9)
-
-
 
 ## Anothers importants things
-![My Skills](https://skillicons.dev/icons?i=bots,selenium,git,docker,kubernetes,figma,linux,maven,powershell,regex&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=bots,selenium,git,docker,kubernetes,figma,linux,maven,jest,powershell,regex&theme=dark&perline=9)
 <img src="https://user-images.githubusercontent.com/94744748/174678573-5e5f084c-d17a-4002-8f09-6c9885fb0823.svg" width="48px" alt="Postman Icon"/>
  # My GitHub Stats
 ![image](https://raw.githubusercontent.com/moura-code/moura-code/master/generated/overview.svg#gh-dark-mode-only)
