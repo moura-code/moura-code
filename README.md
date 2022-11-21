@@ -1,5 +1,4 @@
-# [My stats](https://github.com/jstrieb/github-stats)
-
+# 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
@@ -44,4 +43,4 @@ Portuguese/Spanish/English
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moura&theme=dark)
 ## Contact Me
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/joaocaladomoura/) |  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/joao_c_moura/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jcaladomoura@gmail.com)| [<img src="https://www.speaktech.in/themes/images/whatsapp-icon.png" alt="Whatsapp logo" height="32">](https://web.whatsapp.com/send?phone=59891357270)|
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/joaocaladomoura/)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/joao_c_moura/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jcaladomoura@gmail.com)[<img src="https://www.speaktech.in/themes/images/whatsapp-icon.png" alt="Whatsapp logo" height="32">](https://web.whatsapp.com/send?phone=59891357270)|
