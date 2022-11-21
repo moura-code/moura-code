@@ -1,4 +1,4 @@
-![Header](https://github.com/moura-code/moura-code/blob/master/github-header-image (1).png)
+![Header](https://github.com/moura-code/moura-code/blob/master/github-header-image(1).png)
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
