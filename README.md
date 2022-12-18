@@ -45,8 +45,12 @@ English (Intermediate-advance)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moura-code&theme=github_dark)
 
 
-# Coding Time in the last 7days
+# Coding Time in the last 30 days
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moura&theme=dark)
+
+# My codewars stats until now
+![Codewars](https://github.r2v.ch/codewars?user=joaomoura)
+
 ## Contact Me
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/joaocaladomoura/)  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/joao_c_moura/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:jcaladomoura@gmail.com)[<img src="https://www.speaktech.in/themes/images/whatsapp-icon.png" alt="Whatsapp logo" height="32">](https://web.whatsapp.com/send?phone=59891357270)
