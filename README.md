@@ -8,7 +8,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 I am 17 years old Brazilian :brazil: student that programing in the free time
 
-#### My lenguages :D:
+#### My lenguages:
 Portuguese 100% (Native)
 
 
@@ -20,7 +20,7 @@ English (Intermediate-advance)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/joaoSMBR)
 
 
-# My Skills
+# My Skills :D
 ### (Not all my skills are here, check my linkdin for more infomation!!)
 
 ## Lenguages
