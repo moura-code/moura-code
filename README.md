@@ -21,7 +21,7 @@ English (Intermediate-advance)
 
 
 # My Skills :D
-### (Not all my skills are here, check my linkdin for more infomation!!)
+### (Not all my skills are here, check my linkdin or contact me for more infomation!!)
 
 ## Lenguages
 ![My Skills](https://skillicons.dev/icons?i=js,ts,cs,java,py,r&theme=dark&perline=9)
