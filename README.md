@@ -1,8 +1,3 @@
-![Header](https://github.com/moura-code/moura-code/blob/master/github-header-image%20(1).png)
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-
 
 ![](https://komarev.com/ghpvc/?username=moura-code)
 
@@ -24,10 +19,10 @@ English (Intermediate-advance)
 ### (Not all my skills are here, check my linkdin or contact me for more infomation!!)
 
 ## Lenguages
-![My Skills](https://skillicons.dev/icons?i=js,ts,cs,java,py,r&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=ts,cs,java,py,kotlin&theme=dark&perline=9)
 
 ## Frontend
-![My Skills](https://skillicons.dev/icons?i=angular,next,bootstrap,html,css,materialui,react,redux,sass,styledcomponents&perline=9)
+![My Skills](https://skillicons.dev/icons?i=angular,next,bootstrap,html,css,materialui,react,sass,styledcomponents&perline=9)
 
 ## Backend
 ![My Skills](https://skillicons.dev/icons?i=nodejs,django,express,dotnet,fastapi,nestjs,spring&theme=dark&perline=9)
