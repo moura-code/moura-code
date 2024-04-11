@@ -1,8 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=moura-code)
 
-I am 18 years old Brazilian :brazil: student that programing in the free time
-
 #### My lenguages:
 Portuguese 100% (Native)
 
